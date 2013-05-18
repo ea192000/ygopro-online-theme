@@ -16,7 +16,7 @@
 		<Date data="18-Nov-2012"/>
 		<Desc data="A skin that looks like Yu-Gi-Oh! Online"/>
 		<Fallback skin="EGDC_YGOPRO_ONLINE" />
-		<Font texture="fontTahoma.png" />
+		<!--<Font texture="fontTahoma.png" />							-->
 	</Properties>
 	
 	<Global guialpha="255">
